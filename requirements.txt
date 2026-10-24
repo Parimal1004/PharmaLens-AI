@@ -1,0 +1,7 @@
+streamlit
+rdkit
+scikit-learn==1.9.0
+shap
+pandas
+joblib
+torch

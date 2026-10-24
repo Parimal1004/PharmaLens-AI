@@ -1,0 +1,5 @@
+venv/
+venv_clean/
+__pycache__/
+*.pyc
+.streamlit/
