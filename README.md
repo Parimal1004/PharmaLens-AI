@@ -8,7 +8,7 @@ signal trained on the Tox21 dataset.
 
 ## Deployed App
 
-**Live demo:** [Add deployed app link here](YOUR_DEPLOYED_APP_URL)
+**Live demo:** [pharmalens-ai-app](https://pharmalens-ai-miniproject.streamlit.app/)
 
 ## Features
 
